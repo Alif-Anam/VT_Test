@@ -1,0 +1,20 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 5
+
+## Media
+
+### Title
+panorama_5506E95F_5E2D_7293_41CC_6C91114E8BD8.label = 1
+panorama_57FB96DF_5E2D_5F94_41D1_D80D0E70E6BF.label = 2
+panorama_57FF02D0_5E2C_B7ED_41D7_49507BB2F1B3.label = 3
+panorama_57FF044C_5E2C_D2F5_41B5_3874745BCB48.label = 7
+panorama_57FF3042_5E2C_B2ED_41A5_9365FE58E593.label = 8
+panorama_57FF4F7C_5E2C_AE95_41D5_D4314765449B.label = 4
+panorama_57FF6C39_5E2C_D29F_4194_1E732411DF67.label = 5
+panorama_57FF77E0_5E2C_FDAD_41D3_9FB9E5233B19.label = 6
